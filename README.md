@@ -1,6 +1,6 @@
 #VEX Code Samples#
 
-![title image](https://drive.google.com/file/d/0B39LSGIB3xuhbjI4ZzlLU3hKOEU/edit?usp=sharing)
+![title image](https://lh3.googleusercontent.com/-xLa-A4AJpOc/U291A3UtquI/AAAAAAAAApo/idrYNygAwS0/w1597-h846-no/RobotCVEXSample.png)
 
 
 ##What Is This?##
